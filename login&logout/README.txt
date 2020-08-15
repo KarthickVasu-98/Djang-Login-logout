@@ -1,0 +1,1 @@
+This is the django project which has login and register pages and different user roles
